@@ -1,7 +1,9 @@
 
-let Number1 = 12;
-let Number2 = 23;
+let Number1 = 1;
+let Number2 = 2;
 
 let Sumatoria = Number1 + Number2;
 
-console.log("Al sumar " + Number1 + " y " + Number2 + " el resultado al final es: " + Sumatoria + ".");
+
+console.log("El resultado al sumar " + Number1 + " y " + Number2 + " es: " + Sumatoria + ".");
+
