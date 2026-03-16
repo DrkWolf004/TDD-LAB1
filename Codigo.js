@@ -4,4 +4,4 @@ let Number2 = 23;
 
 let Sumatoria = Number1 + Number2;
 
-console.log("Si sumamos " + Number1 + " y " + Number2 + " el resultado es: " + Sumatoria + ".");
+console.log("Al sumar " + Number1 + " y " + Number2 + " el resultado al final es: " + Sumatoria + ".");
