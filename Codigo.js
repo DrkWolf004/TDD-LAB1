@@ -1,6 +1,6 @@
 
-let Number1 = 12;
-let Number2 = 23;
+let Number1 = 1;
+let Number2 = 2;
 
 let Sum = Number1 + Number2;
 
